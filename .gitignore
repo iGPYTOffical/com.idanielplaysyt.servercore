@@ -1,6 +1,6 @@
 *.class
 
-# Mobile Tools for Java (J2ME)
+# Partner Main File system tools for java (J4PFS)
 .mtj.tmp/
 
 # Package Files #
